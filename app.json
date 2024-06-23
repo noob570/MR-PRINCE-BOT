@@ -10,13 +10,13 @@
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668108;Prince;923092668108;GDS"
+      "value": "923161581842;Taha;923052432382;Taha"
 
      },
       "DATABASE_URL": {
       "description": "your mongodb database url",
       "required": false,
-      "value": ""
+      "value": "mongodb+srv://arainanwar007:z6OxOnFb6CN0Cxza@cluster0.b1chu9a.mongodb.net/?retryWrites=true&w=majority"
       },
      "MODE": {
       "description": "mode public or private",
@@ -36,7 +36,7 @@
     "PREFIX": {
       "description": "Put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
      },
     "antidelete": {
       "description": "BOT will forward deleted messages if you make it true",
