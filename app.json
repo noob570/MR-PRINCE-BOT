@@ -10,7 +10,7 @@
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923161581842;Taha;923052432382;Taha"
+      "value": "923161581842;Prince;923052432382;GDS"
 
      },
       "DATABASE_URL": {
