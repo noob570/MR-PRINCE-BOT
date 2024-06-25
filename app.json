@@ -16,7 +16,7 @@
       "DATABASE_URL": {
       "description": "your mongodb database url",
       "required": false,
-      "value": "mongodb+srv://arainanwar007:z6OxOnFb6CN0Cxza@cluster0.b1chu9a.mongodb.net/?retryWrites=true&w=majority"
+      "value": "mongodb+srv://taha16511:4uPo1wMZxKzrqobP@cluster0.dvlwfxx.mongodb.net/"
       },
      "MODE": {
       "description": "mode public or private",
